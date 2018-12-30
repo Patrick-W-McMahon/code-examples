@@ -1,0 +1,7 @@
+{
+    "database": {
+      "user": "appUser",
+      "password": "Password1"
+    },
+    "port": 3000
+}
